@@ -20,7 +20,7 @@
 ## Detalhes do que será implementado
 
 - **Título do trabalho**: <mark>`INFNAF`</mark>
-- **Parágrafo curto descrevendo o que será implementado**: <mark>`<preencher>`</mark>
+- **Parágrafo curto descrevendo o que será implementado**: <mark>`A aplicação será um jogo de terror ambientado na secretaria do Diretório Acadêmico da Computação, a "lojinha do DACOMP". Neste jogo, o jogador é um bolsista resposável por atender clientes à noite e realizar pequenas tarefas relacionadas. O bolsista deve tentar atender o máximo possível de clientes para se manter na bolsa. Entretanto, além de clientes normais, haverão monstros tentando entrar que devem ser evitados. Alguns podem se disfarçar como clientes e você deve negar seus pedidos, caso não o faça, irão lhe assustar e após três falhas, matá-lo. Um tentará entrar pelas janelas que estão abertas pra sair o cheiro do banheiro que fica em cima. Quando ver algo estranho em uma das janelas, o jogador deverá fechá-la até que a anomalia desapareça. Se a anomalia permanecer por determinado tempo, o monstro entra e o jogo acaba. Um outro monstro tentará entrar pela porta lentamente. O bolsista deve ficar atento à câmera de segurança em frente para vê-lo se aproximar e então fechar a porta e apagar as luzes.`</mark>
 
 ## Especificação visual
 
@@ -39,7 +39,7 @@
 >   do próprio repositório. Mas, garanta que qualquer um tenha
 >   permissão de acesso ao vídeo através deste link.
 
-<mark>`<preencher>`</mark>
+<mark>`[Gameplay de referência](https://www.youtube.com/watch?v=awLLNEvZ-1c)`</mark>
 
 ### Vídeo - Timestamp
 
@@ -48,8 +48,8 @@
 >   será a base de comparação para avaliar se o seu trabalho final
 >   conseguiu ou não reproduzir a referência.
 
-- **Timestamp inicial**: <mark>`<preencher>`</mark>
-- **Timestamp final**: <mark>`<preencher>`</mark>
+- **Timestamp inicial**: <mark>`30s`</mark>
+- **Timestamp final**: <mark>`70s`</mark>
 
 ### Imagens
 
@@ -107,7 +107,7 @@ Para cada um dos requisitos abaixo (detalhados no [Enunciado do Trabalho final -
 <mark>`<preencher>`</mark>
 
 ### Movimentação com curva Bézier cúbica
-<mark>`A curva de Bézier será implementada em animações de reestoque dos produtos, saindo de uma posição relativa ao jogador e terminando na prateleira adequada.`</mark>
+<mark>`A curva de Bézier será implementada na movimentação dos personagens não jogáveis. Seu caminho através da cena será definido por uma curva.`</mark>
 
 ### Animações baseadas no tempo ($\Delta t$)
 <mark>`<preencher>`</mark>
