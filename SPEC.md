@@ -39,7 +39,7 @@
 >   do próprio repositório. Mas, garanta que qualquer um tenha
 >   permissão de acesso ao vídeo através deste link.
 
-<mark>`[Gameplay de referência](https://www.youtube.com/watch?v=awLLNEvZ-1c)`</mark>
+[Gameplay de referência](https://www.youtube.com/watch?v=awLLNEvZ-1c)
 
 ### Vídeo - Timestamp
 
