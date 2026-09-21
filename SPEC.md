@@ -81,6 +81,12 @@
 
 ![Imagem 3](images/spec/image3.png)
 
+#### Imagem 4 REFERÊNCIA EXTRA
+
+- **Descrição**: <mark>`<preencher>`</mark>
+
+![Imagem 3](images/spec/referencia_extra_camera.png)
+
 ## Especificação textual
 
 Para cada um dos requisitos abaixo (detalhados no [Enunciado do Trabalho final - Moodle](https://moodle.ufrgs.br/mod/assign/view.php?id=6302370)), escreva um parágrafo **curto** explicando como este requisito será atendido, apontando itens específicos do vídeo/imagens que você incluiu acima que atendem estes requisitos.
