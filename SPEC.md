@@ -39,7 +39,7 @@
 >   do próprio repositório. Mas, garanta que qualquer um tenha
 >   permissão de acesso ao vídeo através deste link.
 
-[Gameplay de referência](https://www.youtube.com/watch?v=awLLNEvZ-1c)
+[Gameplay de referência](https://youtu.be/5bpZJVoFZas?si=vVcQ7qBq7t119JRP)
 
 ### Vídeo - Timestamp
 
@@ -48,8 +48,8 @@
 >   será a base de comparação para avaliar se o seu trabalho final
 >   conseguiu ou não reproduzir a referência.
 
-- **Timestamp inicial**: <mark>`30s`</mark>
-- **Timestamp final**: <mark>`70s`</mark>
+- **Timestamp inicial**: <mark>6:35</mark>
+- **Timestamp final**: <mark>7:03</mark>
 
 ### Imagens
 
