@@ -11,15 +11,15 @@
 
 ## Integrantes da dupla
 
-- **Aluno 1 - Nome**: <mark>`<preencher>`</mark>
-- **Aluno 1 - Cartão UFRGS**: <mark>`<preencher>`</mark>
+- **Aluno 1 - Nome**: <mark>`Joel Soares González`</mark>
+- **Aluno 1 - Cartão UFRGS**: <mark>`00550073`</mark>
 
-- **Aluno 2 - Nome**: <mark>`<preencher>`</mark>
-- **Aluno 2 - Cartão UFRGS**: <mark>`<preencher>`</mark>
+- **Aluno 2 - Nome**: <mark>`Nickolas Xisto Machado`</mark>
+- **Aluno 2 - Cartão UFRGS**: <mark>`00341038`</mark>
 
 ## Detalhes do que será implementado
 
-- **Título do trabalho**: <mark>`<preencher>`</mark>
+- **Título do trabalho**: <mark>`INFNAF`</mark>
 - **Parágrafo curto descrevendo o que será implementado**: <mark>`<preencher>`</mark>
 
 ## Especificação visual
@@ -86,19 +86,19 @@
 Para cada um dos requisitos abaixo (detalhados no [Enunciado do Trabalho final - Moodle](https://moodle.ufrgs.br/mod/assign/view.php?id=6302370)), escreva um parágrafo **curto** explicando como este requisito será atendido, apontando itens específicos do vídeo/imagens que você incluiu acima que atendem estes requisitos.
 
 ### Malhas poligonais complexas
-<mark>`<preencher>`</mark>
+<mark>`O jogo terá um espaço 3D com diversos objetos variados e.g. produtos, estantes, cadeiras`</mark>
 
 ### Transformações geométricas controladas pelo usuário
-<mark>`<preencher>`</mark>
+<mark>`O usuário poderá se mover e interagir com objetos dentro do cenário, os movendo e/ou rotacionando.`</mark>
 
 ### Diferentes tipos de câmeras
-<mark>`<preencher>`</mark>
+<mark>`A modalidade principal será uma câmera em primeira pessoa, sendo possível alterar para uma câmera externa fixada.`</mark>
 
 ### Instâncias de objetos
-<mark>`<preencher>`</mark>
+<mark>`Os produtos dentro da aplicação devem possuir mais de uma instância em posições diferentes.`</mark>
 
 ### Testes de intersecção
-<mark>`<preencher>`</mark>
+<mark>`O personagem controlado pode se mover pelo espaço virtual e serão implementadas colisões com elementos do cenário como paredes, mesas, etc.`</mark>
 
 ### Modelos de Iluminação em todos os objetos
 <mark>`<preencher>`</mark>
@@ -107,7 +107,7 @@ Para cada um dos requisitos abaixo (detalhados no [Enunciado do Trabalho final -
 <mark>`<preencher>`</mark>
 
 ### Movimentação com curva Bézier cúbica
-<mark>`<preencher>`</mark>
+<mark>`A curva de Bézier será implementada em animações de reestoque dos produtos, saindo de uma posição relativa ao jogador e terminando na prateleira adequada.`</mark>
 
 ### Animações baseadas no tempo ($\Delta t$)
 <mark>`<preencher>`</mark>
