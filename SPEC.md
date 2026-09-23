@@ -20,6 +20,10 @@
 ## Detalhes do que será implementado
 
 - **Título do trabalho**: <mark>`INFNAF`</mark>
+
+> Comentário Professor: Achei a jogabilidade interessante!
+
+> Comentário Professor: Para mim, está tudo OK.
 - **Parágrafo curto descrevendo o que será implementado**: <mark>`A aplicação será um jogo de terror ambientado na secretaria do Diretório Acadêmico da Computação, a "lojinha do DACOMP". Neste jogo, o jogador é um bolsista resposável por atender clientes à noite. Entretanto, além de clientes normais, haverão monstros tentando entrar que devem ser evitados. Alguns podem se disfarçar como clientes e você deve negar seu atendimento, caso não o faça, irão lhe assustar e após três falhas, matá-lo. Contudo, se negar muitos clientes reais, será desligado da bolsa. Um monstro tentará entrar pelas janelas que estão abertas pra sair o cheiro do banheiro que fica em cima. Quando ver algo estranho em uma das janelas, o jogador deverá fechá-la até que a anomalia desapareça. Se a anomalia permanecer por determinado tempo, o monstro entra e o jogo acaba. Um outro monstro tentará entrar pela porta lentamente. O bolsista deve ficar atento à câmera de segurança em frente para vê-lo se aproximar e então fechar a porta, apagar as luzes e não fazer barulho até que o monstro vá embora. Porém, manter a porta fechada impede clientes de entrar e será tratado como negar serviço.`</mark>
 
 ## Especificação visual
